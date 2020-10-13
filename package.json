@@ -2,6 +2,9 @@
   "name": "lp-api-project",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "13.11.0"
+  },
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
